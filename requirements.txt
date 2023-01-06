@@ -1,1 +1,1 @@
-numphy
+numpy==1.24.1
